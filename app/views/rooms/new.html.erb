@@ -1,0 +1,10 @@
+<h1>Create a new Room</h1>
+
+<%= form_for @room do |f| %>
+  <div class="form-group">
+    <%= f.label :topic %>
+    <%= f.text_field :topic, class: 'form-control' %>
+  </div>
+
+  <%= f.submit "Add", class: 'btn btn-primary' %>
+<% end %>
