@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app demonstrates how to use Action Cable with Rails 5 and is based on the Action Cable demo from David Heinemeier Hannson (https://www.youtube.com/watch?v=n0WUjGkDFS0). 
+I used Devise for authentication and bootstrap for css styling.
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
